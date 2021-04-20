@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>MySQL(básico)</strong>.
+  🏆 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>MySQL(básico)</strong>.
 </p>
 
 <p align="left">
