@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador PauloLeal">
+<img src="https://blush.design/api/download?shareUri=r9NvV7ogi&c=Skin_0%7Eedb98a&bg=ffffff&w=800&h=800&fm=png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador PauloLeal">
 
 <p align="left"> 
   Olá! Meu nome é Paulo Henrique, sou estudante de desenvolvimento web sendo meu foco inicial no <strong> Front-End </strong>.
