@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🏆 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>MySQL(básico)</strong>.
+  🏆 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong> e <strong>MySQL(básico)</strong>.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode</strong> e <strong>HeidiSQL</strong>
+  💼 Ferramentas: <strong>VSCode</strong>, <strong>HeidiSQL</strong> e <strong>Postman</strong>
 </p>
 
 <p align="left">
