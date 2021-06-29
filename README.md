@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:devpauloleald@gmail.com" target="_blank"" alt="Gmail">
+  <a href="mailto:devpauloleal@gmail.com" target="_blank"" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=devpauloleal@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/paulo-leal-7a5a04203/" alt="Linkedin">
