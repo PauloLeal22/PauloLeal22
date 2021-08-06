@@ -20,7 +20,7 @@
   <a href="mailto:devpauloleal@gmail.com" target="_blank"" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=devpauloleal@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/paulo-leal-7a5a04203/" alt="Linkedin">
+  <a href="www.linkedin.com/in/paulo-henrique-leal" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-leal-7a5a04203/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511963164212" alt="WhatsApp">
