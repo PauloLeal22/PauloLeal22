@@ -1,11 +1,11 @@
 <img src="https://blush.design/api/download?shareUri=r9NvV7ogi&c=Skin_0%7Eedb98a&bg=ffffff&w=800&h=800&fm=png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador PauloLeal">
 
 <p align="left"> 
-  Olá! Meu nome é Paulo Henrique, sou estudante de desenvolvimento web apaixonado por JavaScript sendo meu foco inicial no <strong> Back-End </strong> com o uso do <strong>Node.js</strong> e suas libs como <strong>Express.js</strong>, <strong>Sequelize</strong>, <strong>Handlebars</strong>, <strong>JWT</strong> e outras diversas bibliotecas.
+  Olá! Meu nome é Paulo Henrique, sou estudante de desenvolvimento web apaixonado por JavaScript sendo meu foco inicial no <strong> Back-End </strong> com o uso do <strong>Node.js</strong> e suas libs como <strong>Express.js</strong>, <strong>Sequelize</strong>, <strong>JWT</strong>, <strong>Nodemailer</strong> e outras diversas bibliotecas.
 </p>
 
 <p align="left">
-  🏆 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong> e <strong>MySQL(básico)</strong>.
+  🏆 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong> e <strong>MySQL</strong>.
 </p>
 
 <p align="left">
