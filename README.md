@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🏆 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>SQL Server</strong> e <strong>MySQL</strong>.
+  🏆 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>SQL Server</strong>, <strong>MySQL</strong> e <strong>Git</strong>.
 </p>
 
 <p align="left">
